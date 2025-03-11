@@ -7,7 +7,6 @@ Software Developer and Designer
  A passionate Software Dev and Designer with a strong focus on crafting seamless user experiences. My journey in tech has been driven by a love for both design and development, allowing me to create apps that are not only functional but also visually appealing.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [my portfolio](http://portfolio-festusndiritu.netlify.app)
 * ✉️  You can contact me at [ndiritufestus8@gmail.com](mailto:ndiritufestus8@gmail.com)
 * 🚀  I'm currently working on [niHome](http://nihome.netlify.app)
 * 🧠  I'm learning Compose Multiplatform
