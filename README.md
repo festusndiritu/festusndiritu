@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer and UI Designer
 ------------------------------
 
- A passionate Software Dev and Designer with a strong focus on crafting seamless user experiences. My journey in tech has been driven by a love for both design and development, allowing me to create apps that are not only functional but also visually appealing.
+ A passionate Mobile Developer and Designer with a strong focus on crafting seamless user experiences. My journey in tech has been driven by a love for both design and development, allowing me to create apps that are not only functional but also visually appealing.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [ndiritufestus8@gmail.com](mailto:ndiritufestus8@gmail.com)
