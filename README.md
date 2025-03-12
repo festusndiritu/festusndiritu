@@ -4,7 +4,7 @@ Hi, my name is Festus Ndiritu
 Mobile Developer, UI/UX
 ------------------------------
 
- A Mobile Developer and Designer with a strong focus on crafting seamless user experiences. Create apps that are not only functional but also user-friendly.
+ A Mobile Developer and Designer with a strong focus on crafting seamless user experiences. Creating apps that are not only functional but also user-friendly.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [ndiritufestus8@gmail.com](mailto:ndiritufestus8@gmail.com)
