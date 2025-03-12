@@ -1,15 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Festus Ndiritu
+Hi, my name is Festus Ndiritu
 ======================================================================================================================================
 
-Mobile Developer and UI Designer
+Mobile Developer, UI/UX
 ------------------------------
 
- A passionate Mobile Developer and Designer with a strong focus on crafting seamless user experiences. My journey in tech has been driven by a love for both design and development, allowing me to create apps that are not only functional but also visually appealing.
+ A Mobile Developer and Designer with a strong focus on crafting seamless user experiences. Create apps that are not only functional but also user-friendly.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [ndiritufestus8@gmail.com](mailto:ndiritufestus8@gmail.com)
-* 🚀  I'm currently working on [niHome](http://nihome.netlify.app)
-* 🧠  I'm learning Compose Multiplatform
 * 🤝  I'm open to collaborating on interesting mobile projects
 
 ### Skills
