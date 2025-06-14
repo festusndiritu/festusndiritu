@@ -1,9 +1,6 @@
 Hi 👋 My name is Festus Ndiritu
 ===============================
 
-Mobile Developer & Designer
----------------------------
-
 I'm a Kotlin-first Android developer who builds apps that actually work.  
 
 ## 🧠 What I Do
@@ -12,9 +9,9 @@ I create responsive, modern Android apps using:
 - 🔁 Kotlin Flow + Coroutines
 - 📱 MVVM (when it makes sense)
 - 💾 Room & Firebase/Supabase for data storage
-- 🧪 Testing? Only if the bug scares me enough.
+- 🧪 Testing - Sometimes, if the bug scares me enough.
 
-Oh — and if I want a UI on a microcontroller?
+Oh - and if I want a UI on a microcontroller?
 
 ## 🔌 Arduino Projects
 I wire up Arduinos and control them with vanilla HTML + CSS + JavaScript.  
