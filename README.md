@@ -14,8 +14,9 @@ I create responsive, modern Android apps using:
 Oh - and if I want a UI on a microcontroller?
 
 ## 🔌 Arduino Projects
-I wire up Arduinos and control them with vanilla HTML + CSS + JavaScript.  
-Frameworks? Nah. JS gives me enough headaches already. I keep it raw and functional.
+I wire up Arduinos and control them with HTML + CSS + Vanilla JavaScript.  
+JS gives me enough headaches already. I keep it raw and no frameworks.
+I use PHP sometimes
 
 ---
 
