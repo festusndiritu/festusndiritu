@@ -14,8 +14,6 @@ I create responsive, modern Android apps using:
 ## Microcontroller Projects
 I wire up Qualcomm AI devices, ESP32 and Arduinos and control them with Mobile Interfaces via MQTT. 
 
----
-
 ## My Toolbelt
 | Tech | Usage |
 |------|-------|
@@ -60,6 +58,3 @@ Need a dev who figures things out instead of waiting around?
 <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
-
-### Badges
-
