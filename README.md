@@ -5,16 +5,14 @@ I'm a Kotlin-first Android developer who builds apps that actually work.
 
 ## 🧠 What I Do
 I create responsive, modern Android apps using:
-- Jetpack Compose
+- Kotlin & Jetpack Compose
 - Kotlin Flow + Coroutines
-- MVVM (when it makes sense)
-- Room & Firebase/Supabase for data storage
-- Testing - Sometimes, if the bug scares me enough.
-
-Oh - and if I want a UI on a microcontroller?
+- MVVM
+- Firebase/Supabase for BaaS
+- Room / SQLDelight for offline persistence
 
 ## Microcontroller Projects
-I wire up Qualcomm AI devices, ESP32 and Arduinos and control them with Web and Mobile Interfaces. 
+I wire up Qualcomm AI devices, ESP32 and Arduinos and control them with Mobile Interfaces via MQTT. 
 
 ---
 
@@ -22,21 +20,20 @@ I wire up Qualcomm AI devices, ESP32 and Arduinos and control them with Web and 
 | Tech | Usage |
 |------|-------|
 | Jetpack Compose | Modern UI |
-| Kotlin Flow | Real-time updates |
+| Kotlin Flow / LiveData | Real-time updates |
 | Coroutines | Async, clean code |
-| Room DB | Offline-first apps |
-| Firebase / Supabase | Auth + Realtime backend |
-| Manual testing | “If it works in the UI, it's fine” |
-| Arduino + Web UI | Because why not |
-I use PHP sometimes
+| Room DB & SQLDelight | Offline-first apps |
+| Firebase / Supabase / MongoDB | Auth + Realtime backend |
+| Testing | “If it works in the UI, it's fine” |
+| Arduino & ESP32 | Because why not |
 
 ---
 
 ## Hire Me — I Have Skills
 
 I'm not here to quote academic papers.  
-I build, I test, and I ship.  
-I read docs, not StackOverflow comments.  
+I build, and I ship.  
+I read docs.  
 Need a dev who figures things out instead of waiting around?  
 **That’s me.**
 
@@ -66,6 +63,3 @@ Need a dev who figures things out instead of waiting around?
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/festusndiritu"><img src="https://github-readme-stats.vercel.app/api?username=festusndiritu&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="festusndiritu's GitHub stats" /></a>
