@@ -3,7 +3,7 @@ Hi 👋 My name is Festus Ndiritu
 
 I'm a Kotlin-first Android developer who builds apps that actually work.  
 
-## 🧠 What I Do
+##  What I Do
 I create responsive, modern Android apps using:
 - Kotlin & Jetpack Compose
 - Kotlin Flow + Coroutines
