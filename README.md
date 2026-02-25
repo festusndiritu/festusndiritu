@@ -4,7 +4,6 @@ Developer working across Mobile, Networking, Backend, and IoT systems.
 
 I build applications that interface with real infrastructure — from Android clients to backend services and production network environments. My work spans mobile architecture, API design, router configuration, and embedded device integration.
 
----
 
 ## Mobile
 
@@ -15,7 +14,6 @@ I build applications that interface with real infrastructure — from Android cl
 - Offline-first systems with local persistence
 - API integration & real-time updates
 
----
 
 ## Backend
 
@@ -28,7 +26,6 @@ I build applications that interface with real infrastructure — from Android cl
 - SQL & NoSQL database design
 - Client-server contract design & validation
 
----
 
 ## Networking & Infrastructure
 
@@ -38,7 +35,6 @@ I build applications that interface with real infrastructure — from Android cl
 - Local infrastructure deployment
 - Network-aware application behavior
 
----
 
 ## IoT & Embedded Systems
 
@@ -48,7 +44,6 @@ I build applications that interface with real infrastructure — from Android cl
 - Real-time device monitoring
 - Hardware/software integration workflows
 
----
 
 ## Skills
 
@@ -56,10 +51,10 @@ I build applications that interface with real infrastructure — from Android cl
 <p align="left">
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
 </a>
@@ -69,18 +64,18 @@ I build applications that interface with real infrastructure — from Android cl
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" />
 </a>
 </p>
 
@@ -88,16 +83,16 @@ I build applications that interface with real infrastructure — from Android cl
 <p align="left">
 <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.simpleicons.org/mikrotik" width="36" height="36" alt="MikroTik" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://ui.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.simpleicons.org/ubiquiti" width="36" height="36" alt="Ubiquiti" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.huawei.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.simpleicons.org/huawei" width="36" height="36" alt="Huawei" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
@@ -107,7 +102,7 @@ I build applications that interface with real infrastructure — from Android cl
 <p align="left">
 <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
 <img src="https://cdn.simpleicons.org/espressif" width="36" height="36" alt="ESP32" />
 </a>
