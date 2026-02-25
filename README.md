@@ -1,60 +1,114 @@
-Hi 👋 My name is Festus Ndiritu
-===============================
+# Festus Ndiritu
 
-I'm a Kotlin-first Android developer who builds apps that actually work.  
+Developer working across Mobile, Networking, Backend, and IoT systems.
 
-##  What I Do
-I create responsive, modern Android apps using:
-- Kotlin & Jetpack Compose
-- Kotlin Flow + Coroutines
-- MVVM
-- Firebase/Supabase for BaaS
-- Room / SQLDelight for offline persistence
-
-## Microcontroller Projects
-I wire up Qualcomm AI devices, ESP32 and Arduinos and control them with Mobile Interfaces via MQTT. 
-
-## My Toolbelt
-| Tech | Usage |
-|------|-------|
-| Jetpack Compose | Modern UI |
-| Kotlin Flow / LiveData | Real-time updates |
-| Coroutines | Async, clean code |
-| Room DB & SQLDelight | Offline-first apps |
-| Firebase / Supabase / MongoDB | Auth + Realtime backend |
-| Testing | “If it works in the UI, it's fine” |
-| Arduino & ESP32 | Because why not |
+I build applications that interface with real infrastructure — from Android clients to backend services and production network environments. My work spans mobile architecture, API design, router configuration, and embedded device integration.
 
 ---
 
-## Hire Me — I Have Skills
+## Mobile
 
-I'm not here to quote academic papers.  
-I build, and I ship.  
-I read docs.  
-Need a dev who figures things out instead of waiting around?  
-**That’s me.**
+- Native Android development (Kotlin, Jetpack Compose)
+- Cross-platform development (Flutter)
+- Reactive state management (Coroutines / Flow)
+- Modular project structure & clean architecture
+- Offline-first systems with local persistence
+- API integration & real-time updates
 
 ---
 
-> **“Don’t need handholding. Just need coffee.” ☕**
+## Backend
 
+- REST API design and implementation  
+  - Python (FastAPI)  
+  - Node.js (Express)  
+  - Java / Kotlin (Spring Boot)
+- Authentication & authorization flows
+- WebSockets & event-driven systems
+- SQL & NoSQL database design
+- Client-server contract design & validation
 
+---
 
-### Skills
+## Networking & Infrastructure
 
+- Router configuration (MikroTik, Ubiquiti, Huawei)
+- DHCP, NAT, firewall rules, traffic shaping
+- IP planning & subnetting
+- Local infrastructure deployment
+- Network-aware application behavior
 
+---
+
+## IoT & Embedded Systems
+
+- ESP32 & Arduino integration
+- MQTT-based communication
+- Mobile-to-device control pipelines
+- Real-time device monitoring
+- Hardware/software integration workflows
+
+---
+
+## Skills
+
+### Mobile
 <p align="left">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>  
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+</a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+</a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+</a>
+</p>
+
+### Backend
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Boot" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+</a>
+</p>
+
+### Networking & Systems
+<p align="left">
+<a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/mikrotik" width="36" height="36" alt="MikroTik" />
+</a>
+<a href="https://ui.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/ubiquiti" width="36" height="36" alt="Ubiquiti" />
+</a>
+<a href="https://www.huawei.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/huawei" width="36" height="36" alt="Huawei" />
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+</a>
+</p>
+
+### IoT
+<p align="left">
+<a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
+</a>
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/espressif" width="36" height="36" alt="ESP32" />
+</a>
 </p>
