@@ -1,8 +1,8 @@
 # Festus Ndiritu
 
-Developer working across Mobile, Networking, Backend, and IoT systems.
+Cross-Platform Developer working across Mobile, Networking, Backend, and IoT systems.
 
-I build applications that interface with real infrastructure — from Android clients to backend services and production network environments. My work spans mobile architecture, API design, router configuration, and embedded device integration.
+I build applications that interface with real infrastructure - from Android clients to backend services and production network environments. My work spans mobile architecture, API design, router configuration, and embedded device integration.
 
 
 ## Mobile
